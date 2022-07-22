@@ -1,0 +1,85 @@
+
+  header{
+      background-image: url("/assets/imgs/Condimentos.jpg");
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 180px;
+      margin-bottom: 50px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-style: oblique;
+      font-size: 12px;
+      text-indent: 50px;    
+      border-right: 2px solid #f45140;
+      border-left: 2px solid #f45140;
+      border-top: 2px solid #f45140;
+      border-bottom: 2px solid #f45140;
+  }
+
+  h1{
+      color: rgb(130, 153, 70);
+      position: absolute;
+      top: 45px;
+      
+  }
+
+  h2{
+      color: rgb(221, 115, 21);
+      position: absolute;
+      top: 80px;
+  }
+
+ .main {
+    position: absolute;
+    top: 80px;
+ } 
+ 
+.container{
+    
+    width: 80%;
+    margin: auto;
+    border-right: 2px solid #f45140;
+      border-left: 2px solid #f45140;
+      border-top: 2px solid #f45140;
+      border-bottom: 2px solid #f45140;
+
+}
+
+div > img {
+    width: 350px; 
+ 
+}
+div > p {
+    
+    color: darkorange;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+  
+  
+}
+
+footer {
+    margin-top: 50px;
+    background-color: forestgreen;
+    height: 70px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 18px;
+    border-right: 2px solid #f45140;
+    border-left: 2px solid #f45140;
+    border-top: 2px solid #f45140;
+    border-bottom: 2px solid #f45140;
+    
+}
+
+.seccion {
+    max-width: 1200px;
+    margin: 18px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
